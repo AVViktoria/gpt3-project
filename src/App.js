@@ -1,4 +1,6 @@
 import React from "react";
+import "./App.css";
+
 import { Brand, Cta, Navbar } from "./components";
 import {
   Blog,
