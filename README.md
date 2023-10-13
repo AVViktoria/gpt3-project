@@ -3,9 +3,9 @@ Open [Figma Link](<https://www.figma.com/file/COg0cvz6taKuYOZ3q5GrBq/gpt3-(Copy)
 
 # Modern UI/UX GPT-3
 
-### [Web Site Link](https://gpt3-project-eight.vercel.app/)
+## [Web Site Link](https://gpt3-project-eight.vercel.app/)
 
-## Open [Figma Link](<https://www.figma.com/file/COg0cvz6taKuYOZ3q5GrBq/gpt3-(Copy)?type=design&node-id=0%3A1&mode=dev>) to view the Figma Template.
+### Open [Figma Link](<https://www.figma.com/file/COg0cvz6taKuYOZ3q5GrBq/gpt3-(Copy)?type=design&node-id=0%3A1&mode=dev>) to view the Figma Template.
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
